@@ -83,6 +83,10 @@ h1 .highlight {
 	animation: HeaderFade 5s;
 }
 
+.mainimage {
+animation: HeaderFade 5s;
+}
+
 header a:hover{
   color:#cccccc;
   font-weight:bold;
